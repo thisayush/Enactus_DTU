@@ -1,0 +1,17 @@
+This is the Assignment Project for Enactus DTU.
+
+Developed By : Ayush Kumar 
+               (2K20/BT/16)
+               ayushkumar_bt20a10_80@dtu.ac.in
+
+
+Note: I have not Edited the Logo of Enactus as I thought it would lead to copyright violations and thus used the Logo which was provided in the mail.
+
+
+Thanking you to looking forward to my repository
+
+Regards , 
+
+Ayush Kumar
+ayushkumar_bt20a10_80
+Contact No.  7838115520
